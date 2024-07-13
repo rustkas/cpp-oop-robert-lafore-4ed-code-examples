@@ -1,2 +1,6 @@
-# cpp-oop-robert-lafore-4ed-code-examples
+# Object-Oriented Programming in C++ 
+ Fourth Edition
+
+ Robert Lafore
+
 This is my variation based on code examples
